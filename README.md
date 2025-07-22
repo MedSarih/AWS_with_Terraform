@@ -1,1 +1,1 @@
-<img width="1363" height="1081" alt="terra" src="https://github.com/user-attachments/assets/ff1a8b77-3ea9-4177-bfe2-bf512f80d812" />
+<img width="1299" height="1081" alt="aws with terraform" src="https://github.com/user-attachments/assets/cfdb2704-eab8-4fc0-a93b-8e39e0afaf70" />
